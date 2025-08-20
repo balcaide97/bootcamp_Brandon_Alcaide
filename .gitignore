@@ -1,3 +1,4 @@
-# Ignore local class materialsbootcamp_Brandon_Alcaide/class_materials/# Ignore Python cache filesbootcamp_Brandon_Alcaide/__pycache__/*.pyc# Ignore environment filesbootcamp_Brandon_Alcaide/.env
+# Ignore local class materials
+brandonalcaide/bootcamp_Brandon_Alcaide/class_materials/# Ignore Python cache filesbrandonalcaide/bootcamp_Brandon_Alcaide/__pycache__/brandonalcaide/bootcamp_Brandon_Alcaide/*.pyc# Ignore environment filesbrandonalcaide/bootcamp_Brandon_Alcaide/.env
 # DS_Store
-bootcamp_Brandon_Alcaide/.DS_Store
+brandonalcaide/bootcamp_Brandon_Alcaide/.DS_Store
